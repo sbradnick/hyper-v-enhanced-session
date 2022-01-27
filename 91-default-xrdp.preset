@@ -1,0 +1,4 @@
+enable xrdp.service
+enable xrdp-sesman.service
+enable xvnc-novnc.socket
+enable vncmanager.service
